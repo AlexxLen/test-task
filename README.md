@@ -2,6 +2,8 @@
 
 ## Демо
 
+https://test-task-v1336.vercel.app/
+
 ## Задание
 
 Приложение должно быть создано с помощью create-react-app, с использованием redux toolkit, rest API и написано на typescript в функциональном стиле.
