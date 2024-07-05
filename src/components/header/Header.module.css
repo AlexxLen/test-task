@@ -1,0 +1,36 @@
+.header {
+  background-color: #eee;
+}
+
+.headerInner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.menuList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.menuItem {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.menuItem + .menuItem {
+  margin-left: 20px;
+}
+
+.menuLink {
+  color: inherit;
+  text-decoration: none;
+}
+
+.menuLinkActive {
+  color: #0070f3;
+  text-decoration: none;
+}

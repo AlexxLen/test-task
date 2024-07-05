@@ -1,0 +1,6 @@
+.footer {
+  height: var(--footer-max-height);
+  padding: 10px 0;
+  text-align: center;
+  background-color: #eee;
+}
